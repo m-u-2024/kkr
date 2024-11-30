@@ -1,0 +1,21 @@
+htmlファイルにに関して
+bed.html
+guest.html
+index.html
+restrant.html
+の4つのファイルで構成されています。
+4つのhtmlファイルに対応するcssファイルに関しては
+reset.css
+style.css
+で共通のcssファイルとして対応しています。
+bed.htmlは「kkr(pdf)」フォルダの中の「kkr-bed.pdf」をデザインカンプとしてwebページに再現してみました。
+guest.htmlは「kkr(pdf)」フォルダの中の「kkr-guest.pdf」をデザインカンプとしてwebページに再現してみました。
+index.html「kkr(pdf)」フォルダの中の「kkr-index.pdf」をデザインカンプとしてwebページに再現してみました。
+restrant.html「kkr(pdf)」フォルダの中の「kkr-restrant.pdf」をデザインカンプとしてwebページに再現してみました。
+この4つのhtmlファイルは互いにリンクしあっています。
+ヘッダー部分の「『TOP』、『TOP2』、『GURST ROOM』、『RESTRANT』」をクリックすることで
+「『index.html』『bed.html』『guest.html』『restrant.html』」にリンクするようにしております。
+なお、『INFO』をクリックしてもそれに対応するhtmlファイルはございません。
+上記の4つのhtmlファイルはレスポンシブになっており、スマホサイズとパソコンサイズで各々違ったデザインにしました。
+「images」ファルダの中の画像は「unsplash」というサイトを利用しました。
+また、利用した画像が多いため、立ち上がるのに時間がかかる恐れがございます。
